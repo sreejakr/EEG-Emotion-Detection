@@ -4,6 +4,7 @@ This project is focused on emotion analysis and detection using EEG (Electroence
 
 ### Data Source
 The EEG data used in this project was sourced from Kaggle. The dataset contains a collection of EEG recordings related to emotional states.
+https://www.kaggle.com/datasets/birdy654/eeg-brainwave-dataset-feeling-emotions/data
 
 ### Tools and Libraries
 The project utilizes various tools and libraries, including but not limited to:
